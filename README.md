@@ -2,8 +2,8 @@
 
 ### Task 1 - Perform Basic Mathematical Operations
 
-**Input**: Takes two numbers as input
-**Output**: Prints the Addition, Subtration, Multiplication and Division of the numbers taken as input
+Line 1 **Input**: Takes two numbers as input
+Line 2 **Output**: Prints the Addition, Subtration, Multiplication and Division of the numbers taken as input
 
 ### Task 2 - Create personalized Greeting
 
