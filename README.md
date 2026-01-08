@@ -1,11 +1,10 @@
 # Python Assignment 1
 
-### Task 1 - Perform Basic Mathematical Operations
+### Task 1 - Check if a Number is Even or Odd
 
-**Input**: Takes two numbers as input </br>
-**Output**: Prints the Addition, Subtration, Multiplication and Division of the numbers taken as input
+**Input**: Takes a number as input </br>
+**Output**: Checks if the number is even or odd and prints the result
 
-### Task 2 - Create personalized Greeting
+### Task 2 - Sum of Intergers from 1 to 50 Using a Loop
 
-**Input**: Takes First name and Last name as input </br>
-**Output**: Prints a greeting addressed to the name from input
+**Output**: Prints the sum of integers from 1 to 50 using for loop
